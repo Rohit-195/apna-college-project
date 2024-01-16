@@ -1,0 +1,28 @@
+
+ul{
+  display:flex;
+  background-color: pink;
+  justify-content: space-evenly;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+li{
+  list-style: none;
+}
+div{
+  width: 400px;
+  height: 300px;
+}
+#outer{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+}
+#inner{
+ width: 100px;
+  height: 80px;
+  background-color: pink;
+}
